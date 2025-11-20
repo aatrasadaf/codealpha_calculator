@@ -1,8 +1,10 @@
 🧮 Simple Calculator
 A clean, responsive, and beginner-friendly calculator web app built using HTML, CSS, and JavaScript.
 It supports both button clicks and keyboard input, making calculations fast and smooth.
+
 🚀 Live Demo
-👉 (Add GitHub Pages link here after deployment)
+👉 https://aatrasadaf.github.io/codealpha_calculator/
+
 ✨ Features
 
 ➕ Basic math operations (+, -, *, /, %)
